@@ -1,0 +1,33 @@
+body
+{
+    background: url(backgroundimg.png);
+    background-size:auto;
+    background-position:center;
+}
+#napis
+{
+    font-family:"sans";
+    color: rgb(255, 0, 0);
+}
+p
+{
+    margin:auto;
+    color:rgb(0, 38, 255);
+}
+#napiscooferujemy
+{
+    font-family: sans-serif;
+}
+button
+{
+    font-family: sans-serif;
+    border-radius:8px;
+    padding: 10px;
+}
+h2
+{
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color:indigo;
+}
